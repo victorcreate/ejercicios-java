@@ -30,7 +30,7 @@ public class ej1 {
 
         System.out.println("Tiene " + monedas + " monedas" );
 
-         pociones=+3;
+         pociones+=3;
 
          System.out.println("Tiene " + pociones + " pociones");
 
